@@ -1,0 +1,9 @@
+[DBHosts]
+
+[DBHosts.defaulthost]
+server = "127.0.0.1"
+port = 3306
+username = "pubsub"
+password = "pubsub"
+database = "pubsub"
+isDefault = true
